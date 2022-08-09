@@ -1,6 +1,6 @@
 ## Hi, there
 
-###Welcome to my GitHub!!
+### Welcome to my GitHub!!
 
 I'm a senior full stack & reactjs developer with heavy experience in Laravel, Django, Node, React/Redux/Saga, single Page Application & Progressive Web Apps.
 Also, I have rich experience in Babel, Webpack in combination with React.
@@ -15,6 +15,7 @@ I used to many remote working tools like slack, zoom & discord.
 I've usually been responsible for achieving very challenging objectives for past projects.
 
 Thank you for viewing my profile.
+
 Take Care!
 
 
